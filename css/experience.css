@@ -1,27 +1,8 @@
-.experience {
-    margin-bottom: 40px;
-    box-shadow: 0px 0px 5px -1px #000500;
-    padding: 55px;
-    margin-bottom: 40px;
-}
-.experience__header {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    padding-bottom: 20px;
-    border-collapse: collapse;
-    border-bottom: 3px solid hsl(171, 53%, 27%);
-    padding-bottom: 20px;
-    text-align: center;
-}
-
 .experience__bold {
     font-weight: bold;
     padding-top: 50px;
-  }
+}
 
-.experience {
+.section--experience {
     background-color: #1ca08d;
-    margin: 0 auto;
-    margin-bottom: 40px;
 }

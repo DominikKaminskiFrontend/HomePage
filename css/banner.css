@@ -1,20 +1,8 @@
-.banner {
+.section--banner {
     border: 1px solid black;
     background-color: #191741;
     border-top: 3%;
-    margin: 0 auto;
-    margin-bottom: 40px;
-    box-shadow: 0px 0px 5px -1px #000500;
-    padding: 55px;
-}
-
-
-.banner__header{
     text-align: center;
-    font-family: Lato, Roboto, sans-serif;
-    font-size: 1em;
-    padding-bottom: 20px;
-    border-collapse: collapse;
 }
 
 .banner__image {
@@ -32,7 +20,7 @@
     list-style-position: inside;
 }
 
-.navigation__List{
+.navigation__List {
     text-align: center;
 }
 
@@ -42,7 +30,7 @@
     width: 100%;
 }
 
-.navigation__link:link{
+.navigation__link:link {
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-weight: 700;
