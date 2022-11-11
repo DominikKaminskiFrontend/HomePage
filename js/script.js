@@ -1,5 +1,5 @@
 let changeTheme = document.querySelector(".js-changeTheme");
-let changeThemeEducation = document.querySelector(".education");
+let changeThemeEducation = document.querySelector(".section--education");
 
 console.log(changeTheme);
 console.log(changeThemeEducation);
