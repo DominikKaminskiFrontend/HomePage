@@ -1,8 +1,16 @@
+- [HomePage](#homepage)
+  - [General Info](#general-info)
 # HomePage
-First Demo HomePage on GitHub:
+First Demo HomePage on GitHub:  
 https://dominikkaminskifrontend.github.io/HomePage/
 
-This site is made useing *HTML, CSS and simple javascript*
-In this site **BEM methodology** is used <br>
-Some img are not loadead- right now i dont know why ;/ 
+## General Info 
+Personal homepage that presents acquired skills.  
+
+This site is made useing:
+- _HTML_
+- _CSS_
+- _simple javascript_  
+- _BEM methodology_
+
 
