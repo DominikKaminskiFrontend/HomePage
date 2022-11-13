@@ -15,4 +15,4 @@ This site is made useing:
 - _BEM methodology_
 
 ### Site Preview  
-![]"../img/HomePage Preview.gif"
+![](https://github.com/DominikKaminskiFrontend/HomePage/blob/main/img/HomePage%20Preview.gif)
