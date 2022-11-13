@@ -1,8 +1,22 @@
-console.log("Witam na mojej pierwszej stronie!")
-let changeTheme = document.querySelector(".js-changeTheme");
-let changeThemeEducation = document.querySelector(".section--education");
+{
+    const welcome = () => {
+        console.log("Witam na mojej stronie!")
+    }
 
-changeTheme.addEventListener("click", () => {
-    document.body.classList.toggle("nightMode");
-    changeThemeEducation.classList.toggle("nightModeEducation");
-});
+    const OnChangeBackgroundClick = () => {
+        const changeThemeEducation = document.querySelector(".section--education");
+
+        document.body.classList.toggle("nightMode");
+        changeThemeEducation.classList.toggle("nightModeEducation");
+    }
+
+    const init = () => {
+        const changeTheme = document.querySelector(".js-changeTheme");
+        changeTheme.addEventListener("click", OnChangeBackgroundClick);
+
+        welcome();
+    }
+
+    init();
+    
+}
