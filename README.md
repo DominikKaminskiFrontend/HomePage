@@ -1,5 +1,6 @@
 - [HomePage](#homepage)
   - [General Info](#general-info)
+    - [Site Preview](#site-preview)
 # HomePage
 First Demo HomePage on GitHub:  
 https://dominikkaminskifrontend.github.io/HomePage/
@@ -13,4 +14,5 @@ This site is made useing:
 - _simple javascript_  
 - _BEM methodology_
 
-
+### Site Preview  
+![]"../img/HomePage Preview.gif"
