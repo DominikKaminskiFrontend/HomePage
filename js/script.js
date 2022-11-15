@@ -3,7 +3,7 @@
         console.log("Witam na mojej stronie!")
     }
 
-    const OnChangeBackgroundClick = () => {
+    const onChangeBackgroundClick = () => {
         const changeThemeEducation = document.querySelector(".section--education");
 
         document.body.classList.toggle("nightMode");
@@ -12,7 +12,7 @@
 
     const init = () => {
         const changeTheme = document.querySelector(".js-changeTheme");
-        changeTheme.addEventListener("click", OnChangeBackgroundClick);
+        changeTheme.addEventListener("click", onChangeBackgroundClick);
 
         welcome();
     }
