@@ -1,5 +1,6 @@
 .section--about {
     background-color: hsl(171, 70%, 37%);
+    margin-bottom: 40px;
 }
 
 .about__link:link {

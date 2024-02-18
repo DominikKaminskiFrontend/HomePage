@@ -1,5 +1,7 @@
 .section--education {
-    color: black;
+    color: rgb(251, 246, 246);
+    background-color:#5a41fb ;
+    margin-bottom: 40px;
 }
 
 .education__bold {
